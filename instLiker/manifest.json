@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Instagram liker",
+    "description": "Instagram liker",
+    "version": "0.1",
+    "icons": {"128": "128.png"},
+    "browser_action": {
+        "default_title": "Inst liker",
+        "default_popup": "popup.html"
+    }, 
+    "permissions": ["activeTab","tabs", "*://*/*/*"]
+}
