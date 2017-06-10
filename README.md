@@ -1,7 +1,8 @@
 _Instagram liker_
 
 ---
-'''js
+```js
 document.getElementById();
-'''
+```
 
+===
